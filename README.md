@@ -13,16 +13,20 @@ To write a program to predict the type of species of the Iris flower using the S
 4. 
 
 ## Program:
-```
+
+![Screenshot 2024-11-22 025135](https://github.com/user-attachments/assets/136fcb3e-5a24-461a-b606-359225513c74)
+
+
 /*
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: 
-RegisterNumber:  
+Developed by:Sudhindra.R
+RegisterNumber:24901168  
 */
-```
+
 
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
+![Screenshot 2024-11-22 025404](https://github.com/user-attachments/assets/0a4f9eed-7906-4f9a-b552-faaf6abac2d3)
+
 
 
 ## Result:
